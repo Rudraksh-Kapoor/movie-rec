@@ -15,7 +15,7 @@ Detailed Movie Information: Get comprehensive information about each movie, incl
 
 **TECHNOLOGIES USED:**
 
-Python, Django, HTMX, CSS, Pandas, NumPy, Scikit-Learn, Pyarrow-feather, Spacy
+Python, Django, HTMX, CSS, Pandas, NumPy, Scikit-Learn, Pyarrow-feather
 
 
 
